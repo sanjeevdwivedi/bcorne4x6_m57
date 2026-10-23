@@ -1,0 +1,25 @@
+# General
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon?
+
+# Resource forks
+._*
+
+# Root volume files/directories
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.com.apple.timemachine.supported
+
+# TimeMachine
+Backups.backupdb
+.MobileBackups
+
